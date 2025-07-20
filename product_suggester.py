@@ -1,4 +1,4 @@
-# product_suggester.py
+
 from agents import Agent, Runner
 
 class SmartStoreAgent:
@@ -43,7 +43,7 @@ class SmartStoreAgent:
         return "❌ Sorry, I couldn't find a product for your need. Please try describing it differently."
 
 
-# ------------------- Run Example -------------------
+
 if __name__ == "__main__":
     agent = SmartStoreAgent()
     print("🤖 Smart Store Agent\n")
