@@ -1,4 +1,5 @@
 # product_suggester.py
+from agents import Agent, Runner
 
 class SmartStoreAgent:
     def __init__(self):
